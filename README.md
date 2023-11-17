@@ -1,8 +1,13 @@
-Issue Tracker Application
+**Issue Tracker Application**
+
 This is an issue Tracking Application implemented for saving and tracking various issues.
 
-Technology Used
+**Technology Used**
+
 Mongo (Database)
+
 Express (Nodejs Framework)
-Angular (Frontend)
+
+EJS Library (Frontend)
+
 Node js (Backend)
